@@ -5,23 +5,30 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azits&layout=compact&theme=tokyonight)
 ### 👋 About Me
 
-I'm **Cheikh Ali Abdoul-ANZIZ**, currently studying in Lyon, France at **Université Claude Bernard Lyon 1**.  
-My academic background combines **Mathematics** (Algebra, Analysis, Probability & Statistics) and **Computer Science**.
+Hi! I'm **Cheikh Ali Abdoul-ANZIZ**, a student at **Université Claude Bernard Lyon 1** in Lyon, France.  
+I’m studying **Mathematics** (algebra, analysis, probability, and statistics) and **Computer Science**.
 
-I've worked with several programming languages and technologies, including:  
+I have experience with many programming languages:  
 **C++, HTML, CSS, PHP, SQL, JavaScript, Java, and Python.**
 
 ---
 
 ### 🚀 Goals
 
-I'm currently **looking for an apprenticeship** starting in **September**, where I can grow and deepen my skills in **data science and engineering**.
+I'm currently **looking for an apprenticeship** starting in **September**.I would like to improve my skills in **data science and engineering**.
+
+---
+### 🧠 Skills & Tools
+
+- Programming: `Java`, `C++`, `Python`, `JavaScript`
+- Web Development: `HTML`, `CSS`, `PHP`, `SQL`
+- Math & Data: `Statistics`, `Probability`, `Data Analysis`
 
 ---
 
 ### 📁 Explore My Work
 
-Feel free to check out my projects on GitHub or take a look at my portfolio.  
+Check out my projects on GitHub or visit my portfolio!  
 You can also reach out to me directly:
 
 - 📧 cheikhalaiabdoulanziz13@gmail.com  
