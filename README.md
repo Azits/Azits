@@ -1,5 +1,4 @@
 
-![a (1)](https://github.com/user-attachments/assets/8bb72fe4-64b7-4cf7-95d8-2eb6ed6c03c2)
 
 ## ✨ Welcome to my profile ✨
 
