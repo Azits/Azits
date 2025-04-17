@@ -1,7 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/12345678?v=4](https://github.com/user-attachments/assets/2e9c1230-4ed8-434c-a886-37cf67df7b86)" alt="My profile picture" width="150" />
-
-
+<img src="https://github.com/user-attachments/assets/4dd5e497-6a83-4f8b-b6d9-f80d32d8627a)" alt="My profile picture" width="150" />
 
 ## ✨ Welcome to my profile ✨
 
