@@ -1,6 +1,8 @@
 ## ✨ Welcome to my profile✨ 
 
-#State
+###State
+I'm Cheikh Ali Abdoul-ANZIZ i'am studying in lyon France at University of Claude Bernard Lyon 1.During my cusus, im studied Mathematics (Algèbra, Analysis, Probabilities and Statistique) and Coomputer Science( C++,HTML,CSS,PHP,SQL,Javascript,Java and Python).
+I'am curentely searching an aprenticessip at a entreprise for septempbre, Where i could aqiere competence in data. If you want to see my projects, can go de my profolio or brow my respositories. You can also contact me by mail at cheikhalaiabdoulanziz13@gmail.com or www.linkedin.com/in/abdoul-anziz-cheikh-ali-559383238
 
 
 <!--
