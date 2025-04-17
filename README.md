@@ -18,7 +18,7 @@ I have experience with many programming languages:
 I'm currently **looking for an apprenticeship** starting in **September**.I would like to improve my skills in **data science and engineering**.
 
 ---
-### 🧠 Skills & Tools
+### ✨ Skills & Tools
 
 - Programming: `Java`, `C++`, `Python`, `JavaScript`
 - Web Development: `HTML`, `CSS`, `PHP`, `SQL`
