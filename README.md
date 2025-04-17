@@ -23,7 +23,7 @@ I'm currently **looking for an apprenticeship** starting in **September**.I woul
 - Programming: `Java`, `C++`, `Python`, `JavaScript`
 - Web Development: `HTML`, `CSS`, `PHP`, `SQL`
 - Design & Prototyping: `Figma` (UI/UX prototyping)
-- Math & Data: `Statistics`, `Probability`, `Data Analysis`
+- Math : `Statistics`, `Probability`,`Algèbra`
 
 ---
 
