@@ -1,3 +1,5 @@
+![Azits](https://github.com/user-attachments/assets/c2de0d5d-2113-4ead-b774-d4b3f5237660)
+
 ## ✨ Welcome to my profile ✨
 
 ### 👋 About Me
