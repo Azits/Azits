@@ -1,8 +1,4 @@
 
-
-## ✨ Welcome to my profile ✨
-### 📈Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azits&layout=compact&theme=tokyonight)
 ### 👋 About Me
 
 Hi! I'm **Cheikh Ali Abdoul-ANZIZ**, a student at **Université Claude Bernard Lyon 1** in Lyon, France.  
