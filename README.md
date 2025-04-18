@@ -20,10 +20,10 @@ I'm currently **looking for an apprenticeship** starting in **September**.I woul
 ---
 ### ✨ Skills & Tools
 
-- Programming: `Java`, `C++`, `Python`, `JavaScript`
-- Web Development: `HTML`, `CSS`, `PHP`, `SQL`
-- Design & Prototyping: `Figma` (UI/UX prototyping)
-- Math : `Statistics`, `Probability`,`Algèbra`
+- Programming: `Java`, `C++`, `Python`,   
+- Web Development: `HTML`, `CSS`,`JavaScript`
+- Design & Prototyping:`Figma` (UI/UX prototyping)  
+- Math & Data: `Statistics`, `Probability`, `Jupyter Notebook`,`SQL`  
 
 ---
 
