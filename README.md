@@ -11,7 +11,7 @@ I have experience with many programming languages:
 
 ### 🚀 Goals
 
-I'm currently **looking for an apprenticeship** starting in **September**.I would like to improve my skills in **data science and engineering**.
+I'm currently **looking for an apprenticeship** starting in **September**.I would like to improve my skills in **data science**.
 
 ---
 ### ✨ Skills & Tools
