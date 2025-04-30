@@ -1,36 +1,26 @@
+👋 About Me
+Hi! I'm Cheikh Ali Abdoul-ANZIZ, and I've been admitted to the engineering cycle in Computer Science at the Université de Technologie de Compiègne (UTC), starting in September 2025.
+There, I will study advanced topics such as Artificial Intelligence, Machine Learning, Statistical Methods, Relational and Non-Relational Databases, Algorithms, and Object-Oriented Programming.
+I'm a curious and motivated student, passionate about data, problem-solving, and building meaningful tech solutions.
 
-### 👋 About Me
+🚀 Goals
+I'm currently looking for a 3-year apprenticeship starting in September 2025, ideally in data science or AI-related fields.
+My goal is to gain real-world experience, improve my technical skills, and grow within a dynamic and innovative team.
 
-Hi! I'm **Cheikh Ali Abdoul-ANZIZ**, a student at **Université Claude Bernard Lyon 1** in Lyon, France.  
-I’m studying **Mathematics** (algebra, analysis, probability, and statistics) and **Computer Science**.
+✨ Skills & Tools
+Programming: Python, Java, C++, SQL, JavaScript
+Web Development: HTML, CSS, JavaScript
+Data & Analysis: Statistics, Probability, Jupyter Notebook, SQL
+Design & Collaboration: Figma, Git, GitHub, Google Drive, Office Suite
 
-I have experience with many programming languages:  
-**C++, HTML, CSS, PHP, SQL, JavaScript, Java, and Python.**
+📁 Explore My Work
+Check out my projects on GitHub or visit my portfolio!
+Feel free to get in touch:
 
----
+📧 cheikhalaiabdoulanziz13@gmail.com
 
-### 🚀 Goals
-
-I'm currently **looking for an apprenticeship** starting in **September**.I would like to improve my skills in **data science**.
-
----
-### ✨ Skills & Tools
-
-- Programming: `Java`, `C++`, `Python`,   
-- Web Development: `HTML`, `CSS`,`JavaScript`
-- Design & Prototyping:`Figma` (UI/UX prototyping)  
-- Math & Data: `Statistics`, `Probability`, `Jupyter Notebook`,`SQL`  
-
----
-
-### 📁 Explore My Work
-
-Check out my projects on GitHub or visit my portfolio!  
-You can also reach out to me directly:
-
-- 📧 cheikhalaiabdoulanziz13@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdoul-anziz-cheikh-ali-559383238)
-
----
+💼 LinkedIn
+🌐 Portfolio
+🧑‍💻 GitHub
 
 Thanks for visiting my profile!
