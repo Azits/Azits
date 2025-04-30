@@ -1,10 +1,16 @@
+### 📊 GitHub Stats
+
+![Azits's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azits&show_icons=true&theme=github_dark&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azits&layout=compact&theme=github_dark)
+
+---
 ### 👋 About Me
 
 Hi! I'm **Cheikh Ali Abdoul-ANZIZ**, and I've been **admitted to the engineering cycle in Computer Science** at the **Université de Technologie de Compiègne (UTC)**, starting in **September 2025**.
 
 At UTC, I will study topics such as **Artificial Intelligence**, **Machine Learning**, **Statistical Methods**, **Relational and Non-Relational Databases**, **Algorithms**, and **Object-Oriented Programming**.
 
-I'm a curious and motivated student, passionate about data, problem-solving, and building meaningful tech solutions.
+I'm a curious and motivated student, passionate about data and problem-solving.
 
 ---
 
@@ -35,13 +41,6 @@ My goal is to **gain real-world experience**, **improve my technical skills**, a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Azits's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azits&show_icons=true&theme=github_dark&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azits&layout=compact&theme=github_dark)
 
 ---
 
